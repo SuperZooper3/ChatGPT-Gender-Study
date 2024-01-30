@@ -1,0 +1,589 @@
+chat_gender,resp_gender,resp_age,chat_voiced,chat_usage,ai_perception,resp_language
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Strongly Positive,Slovak
+Definitely Male,Female,15-20,,Weekly,Slightly Positive,English
+Probably Female,Male,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Neutral / No gender,Male,41-60,"No, only in a text box",Less than once a month,Slightly Positive,French
+Definitely Female,Male,,"No, only in a text box",Less than once a month,Neutral,English
+Neutral / No gender,Female,21-30,"No, only in a text box",Less than once a month,Slightly Positive,Bengali
+Probably Male,Female,21-30,"No, only in a text box",Never,Negative,German
+Leaning Male,Female,31-40,"No, only in a text box",Less than once a month,Positive,English
+Leaning Female,Non-binary/Other,21-30,"Yes, with a female voice",Weekly,Positive,English
+Leaning Male,Male,15-20,"No, only in a text box",Weekly,Positive,English
+Probably Male,Male,15-20,"No, only in a text box",Daily,Positive,English
+Leaning Female,Female,15-20,"No, only in a text box",Weekly,Neutral,English
+Definitely Male,Male,21-30,"No, only in a text box",Weekly,Positive,Polish
+Neutral / No gender,Female,21-30,"No, only in a text box",Daily,Slightly Positive,English
+Leaning Male,Male,15-20,,Daily,Negative,English
+Probably Female,Male,31-40,"Yes, with a female voice",Daily,Positive,English
+Neutral / No gender,Male,31-40,"Yes, with a male voice",Weekly,Positive,English
+Probably Female,Male,15-20,,Weekly,Slightly Positive,English
+Leaning Male,Male,21-30,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Male,15-20,,Monthly,Slightly Positive,French
+Leaning Male,Female,15-20,"No, only in a text box",Less than once a month,Slightly Negative,English
+Definitely Male,Female,21-30,"No, only in a text box",Less than once a month,Neutral,French
+Neutral / No gender,Male,21-30,"No, only in a text box",Less than once a month,Strongly Positive,English
+Leaning Male,Female,21-30,"No, only in a text box",Monthly,Slightly Positive,English
+Probably Male,Male,21-30,"Yes, with a male voice",Daily,Strongly Positive,English
+Neutral / No gender,Male,15-20,,Monthly,Slightly Negative,French
+Probably Male,Female,15-20,"No, only in a text box",Monthly,Slightly Negative,English
+Neutral / No gender,Male,21-30,"Yes, with a female voice",Daily,Positive,English
+Probably Male,Female,31-40,"No, only in a text box",Less than once a month,Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Daily,Slightly Negative,
+Neutral / No gender,Male,15-20,"No, only in a text box",Daily,Strongly Positive,English
+Definitely Male,Male,15-20,"No, only in a text box",Less than once a month,Strongly Negative,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Less than once a month,Slightly Negative,English
+Definitely Male,Male,21-30,,Monthly,Negative,English
+Probably Male,Female,41-60,,Less than once a month,Slightly Negative,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Strongly Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Less than once a month,Positive,English
+Probably Male,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Weekly,Positive,Mandarin
+Neutral / No gender,Male,21-30,"No, only in a text box",Less than once a month,Slightly Positive,Greek
+Probably Male,Male,31-40,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Female,15-20,,Less than once a month,Neutral,English
+Leaning Female,Male,15-20,"No, only in a text box",Less than once a month,Slightly Negative,English
+Leaning Male,Male,15-20,,Weekly,Strongly Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Weekly,Strongly Positive,English
+Probably Male,Male,21-30,"No, only in a text box",Daily,Slightly Positive,Croatian
+Leaning Female,Female,41-60,"No, only in a text box",Weekly,Slightly Positive,English
+Definitely Female,Male,31-40,"Yes, with a female voice",Daily,Strongly Positive,English
+Leaning Female,Male,15-20,"No, only in a text box",Weekly,Positive,Mandarin
+Definitely Female,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,Danish
+Leaning Male,Female,41-60,"No, only in a text box",Less than once a month,Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Less than once a month,Slightly Positive,English
+Leaning Female,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,English
+Probably Male,Male,21-30,"No, only in a text box",Daily,Strongly Positive,French
+Definitely Female,Male,15-20,"No, only in a text box",Daily,Strongly Positive,English
+Leaning Male,Female,41-60,"Yes, with a male voice",Weekly,Neutral,English
+Leaning Male,Male,15-20,"No, only in a text box",Monthly,Negative,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Monthly,Slightly Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Male,31-40,"Yes, with a female voice",Daily,Strongly Positive,English
+Neutral / No gender,Non-binary/Other,31-40,"No, only in a text box",Weekly,Slightly Positive,English
+Neutral / No gender,Male,15-20,,Never,Neutral,English
+Leaning Male,Non-binary/Other,15-20,,Monthly,Positive,English
+Probably Female,Female,15-20,"No, only in a text box",Weekly,Slightly Negative,French
+Probably Female,Male,15-20,,Daily,Positive,English
+Probably Male,Female,21-30,"No, only in a text box",Weekly,Slightly Positive,English
+Probably Male,Male,21-30,"No, only in a text box",Less than once a month,Slightly Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Daily,Neutral,English
+Leaning Female,Male,15-20,,Weekly,Strongly Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Less than once a month,Slightly Positive,English
+Probably Male,Female,15-20,"No, only in a text box",Never,Strongly Negative,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Weekly,Strongly Positive,English
+Probably Male,Male,15-20,"No, only in a text box",Weekly,Positive,Mandarin
+Neutral / No gender,Female,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Leaning Male,Female,41-60,"No, only in a text box",Less than once a month,Positive,
+Probably Male,Female,41-60,"No, only in a text box",Weekly,Neutral,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Weekly,Slightly Negative,English
+Neutral / No gender,Female,>60,"No, only in a text box",Weekly,Strongly Positive,English
+Leaning Male,Male,41-60,"Yes, with a female voice",Weekly,Slightly Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Weekly,Slightly Positive,Danish
+Definitely Male,Male,21-30,"Yes, with a male voice",Daily,Slightly Positive,Algerian
+Neutral / No gender,Female,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Definitely Male,Male,31-40,"No, only in a text box",Never,Neutral,English
+Probably Female,Male,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Definitely Male,Male,41-60,"No, only in a text box",Weekly,Positive,English
+Leaning Female,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Probably Female,Female,41-60,"No, only in a text box",Daily,Strongly Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Daily,Strongly Positive,English
+Definitely Male,Male,31-40,"Yes, with a female voice",Daily,Positive,English
+Leaning Male,Male,21-30,"No, only in a text box",Weekly,Slightly Positive,Hungarian
+Definitely Male,Male,>60,"Yes, with a male voice",Daily,Strongly Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Daily,Strongly Positive,estonian
+Leaning Male,Male,21-30,,Never,Slightly Negative,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Positive,Khmer
+Definitely Male,Male,15-20,"Yes, with a male voice",Daily,Strongly Positive,English
+Neutral / No gender,Female,21-30,"No, only in a text box",Never,Strongly Negative,English
+Leaning Male,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Leaning Male,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,English
+Neutral / No gender,Non-binary/Other,15-20,,Monthly,Neutral,Mandarin
+Probably Male,Male,21-30,"Yes, with a male voice",Daily,Strongly Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Probably Female,Male,15-20,"No, only in a text box",Less than once a month,Positive,English
+Neutral / No gender,Male,15-20,"Yes, with a male voice",Weekly,Strongly Positive,
+Leaning Male,Male,31-40,"No, only in a text box",Daily,Neutral,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Leaning Male,Male,15-20,"No, only in a text box",Less than once a month,Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Non-binary/Other,31-40,"Yes, with a female voice",Weekly,Slightly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Probably Female,Male,21-30,"No, only in a text box",Weekly,Strongly Positive,
+Neutral / No gender,Prefer not to say,41-60,"No, only in a text box",Daily,Strongly Positive,English
+Probably Female,Male,15-20,"No, only in a text box",Daily,Strongly Positive,English
+Definitely Female,Male,31-40,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Weekly,Slightly Negative,English
+Definitely Male,Male,21-30,"No, only in a text box",Daily,Neutral,Polish
+Definitely Female,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,Greek
+Neutral / No gender,Male,31-40,"No, only in a text box",Monthly,Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Leaning Female,Female,31-40,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Female,15-20,,Never,Slightly Negative,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Daily,Strongly Positive,English
+Leaning Male,Male,21-30,"No, only in a text box",Weekly,Strongly Positive,English
+Leaning Male,Male,31-40,"Yes, with a female voice",Weekly,Positive,English
+Leaning Female,Female,41-60,"Yes, with a female voice",Daily,Positive,English
+Neutral / No gender,Non-binary/Other,15-20,"No, only in a text box",Less than once a month,Slightly Negative,English
+Definitely Female,Female,41-60,"No, only in a text box",Monthly,Positive,German
+Neutral / No gender,Male,15-20,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Less than once a month,Slightly Positive,English
+Probably Male,Male,21-30,"No, only in a text box",Monthly,Positive,English
+Probably Male,Male,21-30,"No, only in a text box",Daily,Positive,English
+Leaning Male,Male,21-30,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Female,31-40,"No, only in a text box",Daily,Slightly Negative,Estonian
+Neutral / No gender,Male,31-40,"Yes, with a female voice",Weekly,Strongly Positive,English
+Definitely Male,Male,21-30,"Yes, with a male voice",Daily,Strongly Positive,Croatian
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Definitely Female,Male,31-40,"No, only in a text box",Daily,Positive,Italian
+Probably Female,Female,21-30,"No, only in a text box",Weekly,Strongly Positive,Spanish
+Leaning Female,Male,41-60,"Yes, with a female voice",Weekly,Strongly Positive,Swedish 
+Leaning Female,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Definitely Male,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Neutral / No gender,Male,41-60,"No, only in a text box",Weekly,Strongly Positive,Hungarian
+Neutral / No gender,Male,21-30,"No, only in a text box",Weekly,Positive,Hungarian
+Definitely Male,Male,15-20,"No, only in a text box",Daily,Strongly Positive,
+Probably Male,Male,21-30,"No, only in a text box",Weekly,Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Monthly,Slightly Negative,English
+Neutral / No gender,Male,31-40,"Yes, with a female voice",Weekly,Slightly Positive,Dutch
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Slightly Negative,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Weekly,Positive,English
+Leaning Male,Male,31-40,"Yes, with a male voice",Daily,Strongly Positive,English
+Leaning Male,Male,15-20,,Monthly,Positive,German
+Neutral / No gender,Male,31-40,"Yes, with a female voice",Daily,Positive,German
+Leaning Male,Male,21-30,"Yes, with a female voice",Daily,Positive,French
+Definitely Male,Male,15-20,"No, only in a text box",Weekly,Positive,Polish
+Neutral / No gender,Male,15-20,"No, only in a text box",Daily,Slightly Positive,English
+Neutral / No gender,Prefer not to say,31-40,"No, only in a text box",Weekly,Strongly Positive,Cornish
+Definitely Male,Male,31-40,"No, only in a text box",Weekly,Strongly Positive,German
+Leaning Male,Male,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Leaning Male,Male,21-30,"No, only in a text box",Daily,Strongly Positive,Polish
+Probably Male,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Monthly,Positive,English
+Probably Male,Male,21-30,"No, only in a text box",Monthly,Positive,English
+Definitely Male,Male,21-30,"No, only in a text box",Daily,Strongly Positive,Hebrew
+Neutral / No gender,Male,21-30,"Yes, with a male voice",Daily,Positive,Greek
+Neutral / No gender,Female,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Leaning Male,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Neutral / No gender,Male,31-40,"Yes, with a female voice",Daily,Positive,English
+Probably Female,Male,15-20,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Weekly,Strongly Positive,English
+Neutral / No gender,Female,15-20,,Weekly,Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Daily,Strongly Positive,English
+Definitely Male,Female,15-20,"No, only in a text box",Less than once a month,Slightly Positive,English
+Leaning Male,Female,>60,"No, only in a text box",Weekly,Slightly Positive,English
+Leaning Female,Male,21-30,,Never,Slightly Positive,German
+Neutral / No gender,Non-binary/Other,31-40,"Yes, with a male voice",Daily,Positive,German
+Neutral / No gender,Male,15-20,,Weekly,Positive,English
+Leaning Male,Male,41-60,"No, only in a text box",Weekly,Positive,English
+Probably Male,Male,21-30,"No, only in a text box",Daily,Positive,English
+Leaning Female,Male,41-60,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Prefer not to say,15-20,"No, only in a text box",Never,Neutral,English
+Probably Male,Female,41-60,"No, only in a text box",Monthly,Positive,English
+Neutral / No gender,Non-binary/Other,31-40,"Yes, with a female voice",Daily,Strongly Positive,English
+Definitely Male,Male,31-40,"Yes, with a male voice",Daily,Positive,Norwegian
+Neutral / No gender,Male,31-40,"Yes, with a male voice",Daily,Strongly Negative,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Daily,Positive,Hindi
+Definitely Female,Female,41-60,"Yes, with a female voice",Daily,Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Monthly,Slightly Positive,English
+Probably Male,Female,>60,"No, only in a text box",Less than once a month,Slightly Positive,English
+Leaning Male,Male,31-40,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Definitely Male,Male,21-30,"No, only in a text box",Daily,Positive,English
+Definitely Male,Male,31-40,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Weekly,Positive,French
+Neutral / No gender,Female,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Leaning Female,Female,21-30,"No, only in a text box",Daily,Slightly Negative,English
+Leaning Male,Female,21-30,"Yes, with a male voice",Daily,Strongly Positive,German
+Leaning Female,Female,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Definitely Male,Non-binary/Other,15-20,"No, only in a text box",Less than once a month,Slightly Negative,Mandarin
+Neutral / No gender,Male,21-30,"No, only in a text box",Monthly,Positive,English
+Probably Male,Female,21-30,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Female,41-60,"Yes, with a female voice",Daily,Strongly Positive,English
+Leaning Male,Female,41-60,"No, only in a text box",Weekly,Positive,English
+Definitely Male,Female,31-40,"No, only in a text box",Weekly,Positive,English
+Definitely Female,Male,41-60,"Yes, with a female voice",Weekly,Positive,English
+Neutral / No gender,Male,21-30,"Yes, with a male voice",Weekly,Slightly Positive,English
+Leaning Male,Non-binary/Other,15-20,"No, only in a text box",Never,Slightly Negative,English
+Leaning Male,Male,21-30,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Weekly,Neutral,English
+Neutral / No gender,Male,41-60,"No, only in a text box",Daily,Slightly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Definitely Male,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,41-60,"Yes, with a male voice",Daily,Slightly Negative,French
+Probably Male,Female,41-60,,Never,Slightly Negative,English
+Probably Male,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Definitely Male,Non-binary/Other,31-40,"No, only in a text box",Weekly,Strongly Positive,Hindi
+Definitely Male,Male,41-60,"No, only in a text box",Monthly,Neutral,English
+Definitely Female,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Definitely Female,Male,15-20,"No, only in a text box",Daily,Strongly Positive,English
+Definitely Female,Male,21-30,"No, only in a text box",Weekly,Neutral,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Monthly,Neutral,German
+Leaning Female,Male,15-20,"Yes, with a female voice",Daily,Positive,English
+Definitely Male,Male,21-30,"No, only in a text box",Daily,Strongly Positive,Spanish
+Neutral / No gender,Male,>60,"Yes, with a female voice",Daily,Strongly Positive,English
+Neutral / No gender,Male,31-40,"Yes, with a male voice",Daily,Strongly Positive,English
+Leaning Male,Male,31-40,"No, only in a text box",Weekly,Positive,Polish
+Definitely Male,Female,15-20,,Weekly,Neutral,French
+Probably Male,Male,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,41-60,"No, only in a text box",Weekly,Strongly Positive,English
+Neutral / No gender,Male,21-30,"Yes, with a male voice",Daily,Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Probably Female,Female,>60,"Yes, with a female voice",Daily,Positive,English
+Definitely Male,Male,21-30,"Yes, with a male voice",Daily,Slightly Negative,English
+Neutral / No gender,Prefer not to say,<15,"No, only in a text box",Monthly,Slightly Positive,English
+Leaning Male,Male,<15,"No, only in a text box",Less than once a month,Slightly Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Less than once a month,Slightly Negative,English
+Leaning Male,Female,21-30,"Yes, with a male voice",Daily,Strongly Positive,French
+Leaning Male,Female,15-20,"No, only in a text box",Monthly,Slightly Negative,English
+Probably Male,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Female,21-30,"No, only in a text box",Less than once a month,Slightly Negative,English
+Definitely Male,Female,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Probably Male,Female,15-20,"No, only in a text box",Less than once a month,Positive,English
+Definitely Male,Male,31-40,"No, only in a text box",Daily,Strongly Positive,English
+Probably Male,Male,41-60,"No, only in a text box",Monthly,Strongly Negative,Polish
+Leaning Male,Female,41-60,"No, only in a text box",Weekly,Positive,English
+Definitely Male,Male,41-60,"Yes, with a female voice",Daily,Strongly Positive,English
+Definitely Female,Female,15-20,"No, only in a text box",Less than once a month,Slightly Positive,English
+Definitely Male,Male,15-20,"Yes, with a female voice",Daily,Strongly Negative,English
+Probably Male,Male,31-40,"Yes, with a male voice",Daily,Strongly Positive,English
+Probably Male,Male,21-30,"Yes, with a male voice",Monthly,Positive,German
+Probably Female,Male,41-60,"No, only in a text box",Daily,Positive,English
+Definitely Male,Female,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Probably Female,Male,15-20,"No, only in a text box",Less than once a month,Strongly Negative,English
+Probably Male,Male,21-30,"Yes, with a male voice",Daily,Strongly Positive,Russian
+Leaning Male,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,Spanish
+Definitely Male,Female,41-60,"Yes, with a male voice",Daily,Strongly Positive,English
+Neutral / No gender,Female,>60,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Weekly,Strongly Positive,Norwegian
+Definitely Male,Male,21-30,"Yes, with a female voice",Daily,Positive,English
+Definitely Female,Female,15-20,"No, only in a text box",Less than once a month,Positive,English
+Leaning Female,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Leaning Female,Female,15-20,"No, only in a text box",Monthly,Positive,English
+Definitely Male,Male,41-60,"Yes, with a female voice",Daily,Strongly Positive,English
+Definitely Male,Male,15-20,"No, only in a text box",Daily,Strongly Positive,
+Probably Male,Male,41-60,"No, only in a text box",Weekly,Slightly Negative,English
+Probably Female,Female,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Neutral / No gender,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,Hindi
+Definitely Female,Female,15-20,"No, only in a text box",Weekly,Strongly Positive,English
+Probably Male,Male,21-30,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,41-60,"Yes, with a male voice",Daily,Strongly Positive,English
+Leaning Male,Female,31-40,"No, only in a text box",Daily,Slightly Positive,English
+Neutral / No gender,Female,31-40,"No, only in a text box",Weekly,Strongly Positive,Estonian
+Neutral / No gender,Male,21-30,"No, only in a text box",Less than once a month,Slightly Negative,English
+Neutral / No gender,Male,31-40,"Yes, with a female voice",Weekly,Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Positive,English
+Leaning Male,Male,31-40,"No, only in a text box",Weekly,Strongly Positive,English
+Leaning Male,Male,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Probably Male,Female,21-30,"No, only in a text box",Monthly,Slightly Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Less than once a month,Slightly Positive,French
+Neutral / No gender,Male,21-30,"No, only in a text box",Monthly,Positive,English
+Leaning Female,Male,31-40,"No, only in a text box",Daily,Positive,English
+Leaning Male,Male,15-20,,Weekly,Slightly Positive,French
+Leaning Female,Female,15-20,,Less than once a month,Neutral,French
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Positive,English
+Leaning Female,Male,15-20,"No, only in a text box",Less than once a month,Slightly Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,15-20,,Daily,Positive,English
+Definitely Male,Male,15-20,"No, only in a text box",Never,Negative,English
+Leaning Female,Female,15-20,,Weekly,Slightly Positive,English
+Definitely Male,Male,31-40,"Yes, with a female voice",Daily,Positive,Hungarian
+Neutral / No gender,Female,15-20,"No, only in a text box",Less than once a month,Slightly Positive,English
+Definitely Male,Male,31-40,"No, only in a text box",Weekly,Positive,English
+Definitely Female,Female,15-20,,Weekly,Positive,English
+Leaning Male,Non-binary/Other,21-30,"No, only in a text box",Monthly,Negative,German
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Strongly Negative,German 
+Neutral / No gender,Female,41-60,"No, only in a text box",Less than once a month,Slightly Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Monthly,Slightly Positive,Russian 
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Slightly Positive,
+Probably Male,Male,15-20,"No, only in a text box",Daily,Strongly Positive,English
+Probably Male,Male,41-60,"No, only in a text box",Daily,Strongly Positive,
+Leaning Male,Male,31-40,"No, only in a text box",Weekly,Strongly Positive,German
+Probably Male,Female,15-20,"No, only in a text box",Monthly,Positive,English
+Leaning Female,Male,15-20,"No, only in a text box",Daily,Positive,English
+Probably Male,Female,15-20,,Monthly,Positive,Spanish
+Neutral / No gender,Male,15-20,"No, only in a text box",Less than once a month,Strongly Positive,English
+Leaning Female,Male,15-20,"No, only in a text box",Weekly,Neutral,English
+Leaning Male,Male,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,Danish
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Male,21-30,,Less than once a month,Slightly Negative,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Non-binary/Other,21-30,,Weekly,Negative,English
+Probably Male,Female,15-20,"No, only in a text box",Less than once a month,Strongly Negative,English
+Probably Female,Male,31-40,"Yes, with a female voice",Daily,Strongly Positive,Portuguese 
+Neutral / No gender,Male,41-60,"Yes, with a female voice",Daily,Strongly Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,French
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Strongly Positive,English
+Probably Male,Male,15-20,,Monthly,Positive,English
+Leaning Female,Male,31-40,"Yes, with a female voice",Weekly,Positive,French
+Probably Male,Male,31-40,"No, only in a text box",Daily,Positive,English
+Probably Male,Female,41-60,"No, only in a text box",Monthly,Neutral,English
+Neutral / No gender,Male,41-60,"No, only in a text box",Monthly,Positive,Swedish
+Neutral / No gender,Male,21-30,"Yes, with a female voice",Daily,Positive,English
+Definitely Male,Female,15-20,"No, only in a text box",Weekly,Slightly Positive,French
+Leaning Female,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Positive,English
+Definitely Male,Female,21-30,"No, only in a text box",Monthly,Negative,English
+Probably Male,Non-binary/Other,15-20,"No, only in a text box",Less than once a month,Negative,English
+Probably Female,Male,15-20,"No, only in a text box",Weekly,Positive,French
+Definitely Male,Female,15-20,"No, only in a text box",Daily,Positive,English
+Definitely Female,Male,21-30,"No, only in a text box",Weekly,Strongly Positive,English
+Neutral / No gender,Female,15-20,,Less than once a month,Slightly Negative,English
+Neutral / No gender,Male,21-30,"Yes, with a male voice",Daily,Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Weekly,Positive,Russian
+Neutral / No gender,Female,41-60,"No, only in a text box",Weekly,Strongly Positive,English
+Neutral / No gender,Prefer not to say,<15,"No, only in a text box",Weekly,Strongly Negative,Mandarin
+Neutral / No gender,Female,41-60,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Neutral / No gender,Non-binary/Other,15-20,"No, only in a text box",Monthly,Slightly Negative,English
+Leaning Female,Male,21-30,"Yes, with a female voice",Weekly,Strongly Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Less than once a month,Slightly Positive,English
+Probably Male,Female,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Definitely Female,Female,15-20,"No, only in a text box",Daily,Strongly Positive,Hindi
+Definitely Male,Male,21-30,"Yes, with a male voice",Daily,Positive,English
+Definitely Female,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,Swedish
+Neutral / No gender,Female,15-20,,Weekly,Slightly Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Daily,Positive,Mandarin
+Neutral / No gender,Male,15-20,"No, only in a text box",Never,Slightly Positive,English
+Neutral / No gender,Male,21-30,"Yes, with a male voice",Weekly,Strongly Positive,Danish
+Neutral / No gender,Male,41-60,"No, only in a text box",Monthly,Negative,English
+Leaning Male,Female,15-20,"No, only in a text box",Monthly,Positive,English
+Definitely Female,Male,21-30,"No, only in a text box",Daily,Slightly Positive,English
+Probably Male,Male,15-20,"No, only in a text box",Weekly,Positive,English
+Probably Female,Male,31-40,"No, only in a text box",Daily,Strongly Positive,French
+Neutral / No gender,Female,21-30,"No, only in a text box",Monthly,Slightly Negative,English
+Definitely Male,Male,21-30,"No, only in a text box",Daily,Positive,Bulgarian
+Probably Male,Female,15-20,"No, only in a text box",Weekly,Neutral,English
+Leaning Female,Female,21-30,"No, only in a text box",Weekly,Slightly Positive,English
+Leaning Female,Male,21-30,"No, only in a text box",Daily,Strongly Positive,Danish
+Leaning Male,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,German
+Neutral / No gender,Female,41-60,"No, only in a text box",Weekly,Neutral,
+Probably Female,Male,21-30,"No, only in a text box",Weekly,Positive,German
+Neutral / No gender,Male,21-30,"No, only in a text box",Monthly,Strongly Positive,English
+Probably Male,Female,21-30,"No, only in a text box",Never,Negative,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Probably Female,Male,,"No, only in a text box",Weekly,Strongly Positive,English
+Leaning Male,Female,21-30,"No, only in a text box",Monthly,Positive,Romanian
+Probably Female,Male,41-60,"No, only in a text box",Weekly,,English
+Definitely Female,Male,>60,"Yes, with a female voice",Daily,Strongly Positive,English
+Definitely Male,Male,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Monthly,Slightly Positive,Croatian
+Neutral / No gender,Female,41-60,"No, only in a text box",Weekly,Slightly Positive,English
+Probably Female,Male,15-20,"No, only in a text box",Daily,Positive,English
+Leaning Male,Male,15-20,"No, only in a text box",Weekly,Neutral,English 
+Leaning Male,Female,21-30,,Never,Negative,English
+Neutral / No gender,Male,31-40,"Yes, with a female voice",Monthly,Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Never,Negative,English
+Definitely Male,Non-binary/Other,31-40,"Yes, with a male voice",Weekly,Negative,English
+Probably Male,Male,15-20,"No, only in a text box",Less than once a month,Strongly Positive,English
+Leaning Female,Male,21-30,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Female,21-30,"No, only in a text box",Monthly,Positive,English
+Definitely Male,Female,41-60,"No, only in a text box",Daily,Positive,English
+Probably Male,Female,15-20,"No, only in a text box",Monthly,Positive,French
+Neutral / No gender,Male,15-20,"No, only in a text box",Less than once a month,Strongly Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Strongly Positive,German
+Probably Male,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Leaning Male,Male,31-40,"No, only in a text box",Weekly,Positive,Spanish
+Leaning Male,Female,15-20,"No, only in a text box",Less than once a month,Strongly Negative,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Less than once a month,Negative,English
+Definitely Male,Male,21-30,"No, only in a text box",Daily,Positive,German
+Neutral / No gender,Female,15-20,"No, only in a text box",Less than once a month,Positive,English
+Leaning Female,Male,15-20,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Male,21-30,"Yes, with a female voice",Daily,Positive,German
+Neutral / No gender,Male,31-40,"No, only in a text box",Daily,Slightly Positive,Filipino
+Leaning Female,Female,21-30,"No, only in a text box",Less than once a month,Slightly Positive,English
+Neutral / No gender,Male,41-60,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Definitely Male,Female,41-60,"No, only in a text box",Weekly,Slightly Positive,English
+Probably Male,Male,21-30,"No, only in a text box",Monthly,Positive,Lithuanian
+Definitely Female,Female,15-20,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Monthly,Slightly Positive,English
+Neutral / No gender,Non-binary/Other,15-20,"No, only in a text box",Monthly,Slightly Negative,English
+Probably Female,Female,15-20,"No, only in a text box",Daily,Slightly Positive,English
+Leaning Male,Non-binary/Other,15-20,"No, only in a text box",Monthly,Strongly Negative,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Less than once a month,Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Weekly,Positive,French
+Definitely Male,Female,41-60,"No, only in a text box",Weekly,Positive,German
+Leaning Male,Female,15-20,"No, only in a text box",Daily,Strongly Positive,English
+Leaning Male,Male,15-20,"No, only in a text box",Less than once a month,Slightly Positive,English
+Probably Male,Female,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Less than once a month,Slightly Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Daily,Positive,English
+Probably Female,Female,31-40,"No, only in a text box",Weekly,Strongly Positive,French
+Neutral / No gender,Female,15-20,"No, only in a text box",Monthly,Positive,English
+Probably Male,Female,31-40,"No, only in a text box",Monthly,Neutral,English
+Definitely Male,Female,31-40,"No, only in a text box",Monthly,Slightly Positive,English
+Definitely Male,Female,21-30,,Monthly,Slightly Positive,English
+Leaning Female,Female,15-20,"No, only in a text box",Monthly,Neutral,English
+Probably Female,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,English
+Leaning Male,Male,15-20,,Daily,Positive,English
+Leaning Male,Male,21-30,"No, only in a text box",Less than once a month,Slightly Positive,English
+Leaning Female,Male,21-30,"No, only in a text box",Monthly,Slightly Positive,English
+Leaning Male,Non-binary/Other,15-20,"No, only in a text box",Less than once a month,Negative,English
+Probably Male,Male,15-20,"No, only in a text box",Monthly,Slightly Positive,French
+Probably Male,Male,21-30,"No, only in a text box",Weekly,Positive,English
+Leaning Female,Female,31-40,"No, only in a text box",Daily,Positive,Hungarian
+Probably Male,Female,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Neutral / No gender,Male,31-40,"Yes, with a female voice",Weekly,Strongly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,41-60,"No, only in a text box",Weekly,Neutral,English
+Definitely Male,Male,15-20,"Yes, with a male voice",Less than once a month,,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Daily,Positive,English
+Definitely Male,Female,15-20,"No, only in a text box",Less than once a month,Slightly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Strongly Positive,English
+Leaning Male,Female,41-60,"No, only in a text box",Monthly,Slightly Positive,English
+Leaning Male,Male,15-20,"No, only in a text box",Daily,Positive,English
+Probably Female,Male,41-60,"Yes, with a female voice",Daily,Positive,English
+Neutral / No gender,Male,21-30,,Less than once a month,Positive,English
+Leaning Female,Male,15-20,"Yes, with a female voice",Daily,Positive,English
+Leaning Female,Female,41-60,"No, only in a text box",Monthly,Slightly Positive,English
+Definitely Male,Male,31-40,"No, only in a text box",Weekly,Strongly Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Leaning Male,Male,15-20,,Weekly,Strongly Positive,English
+Probably Female,Male,15-20,"No, only in a text box",Less than once a month,Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Definitely Male,Female,<15,,Never,Slightly Negative,French
+Probably Male,Female,21-30,"No, only in a text box",Daily,Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Leaning Male,Female,15-20,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Monthly,Slightly Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Daily,Slightly Positive,English
+Definitely Male,Female,41-60,"No, only in a text box",Weekly,Strongly Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Weekly,Positive,English
+Probably Male,Female,15-20,"No, only in a text box",Daily,Positive,English
+Leaning Male,Female,21-30,"No, only in a text box",Weekly,Strongly Positive,French
+Neutral / No gender,Male,21-30,"No, only in a text box",Weekly,Strongly Positive,Thai
+Neutral / No gender,Female,>60,"No, only in a text box",Weekly,Positive,English
+Leaning Male,Female,21-30,"No, only in a text box",Weekly,Slightly Negative,Russian 
+Neutral / No gender,Male,15-20,"No, only in a text box",Daily,Positive,English
+Leaning Male,Female,41-60,"No, only in a text box",Less than once a month,Slightly Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Never,Slightly Positive,English
+Leaning Male,Female,41-60,"No, only in a text box",Weekly,Neutral,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Weekly,Strongly Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Never,Neutral,English
+Neutral / No gender,Non-binary/Other,15-20,,Less than once a month,Slightly Positive,English
+Definitely Female,Male,15-20,"No, only in a text box",Never,Slightly Positive,English
+Neutral / No gender,Female,21-30,"No, only in a text box",Weekly,Neutral,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Daily,Slightly Positive,English
+Neutral / No gender,Prefer not to say,,,,,
+Neutral / No gender,Female,31-40,"No, only in a text box",Monthly,Positive,Spanish
+Leaning Male,Male,15-20,,Weekly,Positive,English
+Leaning Male,Male,15-20,,Monthly,Positive,English
+Leaning Female,Female,15-20,"No, only in a text box",Less than once a month,Slightly Positive,English
+Neutral / No gender,Female,21-30,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Male,<15,"No, only in a text box",Weekly,Strongly Positive,French
+Definitely Female,Male,15-20,"No, only in a text box",Monthly,Neutral,English
+Neutral / No gender,Female,31-40,"No, only in a text box",Monthly,Positive,Portuguese 
+Neutral / No gender,Non-binary/Other,31-40,"No, only in a text box",Weekly,Strongly Positive,English
+Definitely Male,Male,31-40,"No, only in a text box",Daily,Strongly Positive,English
+Leaning Female,Male,15-20,"No, only in a text box",Daily,Positive,English
+Leaning Male,Male,21-30,"No, only in a text box",Monthly,Neutral,French
+Neutral / No gender,Non-binary/Other,21-30,"No, only in a text box",Daily,Slightly Positive,English
+Leaning Male,Female,15-20,,Weekly,Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Weekly,Strongly Positive,Czech
+Definitely Male,Male,21-30,"No, only in a text box",Weekly,Positive,French
+Probably Male,Female,21-30,"No, only in a text box",Weekly,Positive,Dutch
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Daily,Positive,English
+Leaning Female,Non-binary/Other,15-20,"No, only in a text box",Weekly,Slightly Negative,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Neutral / No gender,Male,31-40,"Yes, with a female voice",Daily,Strongly Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Monthly,Positive,German
+Leaning Male,Male,15-20,"No, only in a text box",Weekly,Slightly Negative,English
+Leaning Female,Female,21-30,"No, only in a text box",Weekly,Slightly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Strongly Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Daily,Positive,English
+Definitely Female,Non-binary/Other,<15,"Yes, with a female voice",Daily,Negative,German
+Neutral / No gender,Male,15-20,"No, only in a text box",Daily,Slightly Negative,Mandarin
+Definitely Male,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Weekly,Slightly Negative,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Weekly,Strongly Positive,English
+Leaning Male,Male,41-60,"No, only in a text box",Daily,Positive,French
+Probably Male,Male,41-60,"No, only in a text box",Daily,Strongly Negative,English
+Neutral / No gender,Female,21-30,"No, only in a text box",Daily,Strongly Positive,English
+Leaning Male,Female,21-30,"No, only in a text box",Never,Slightly Negative,English
+Neutral / No gender,Prefer not to say,31-40,,Daily,Strongly Positive,German
+Leaning Male,Male,21-30,"No, only in a text box",Monthly,Positive,English
+Neutral / No gender,Male,41-60,"No, only in a text box",Weekly,Positive,English
+Probably Male,Female,15-20,"No, only in a text box",Monthly,Neutral,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Weekly,Positive,Spanish
+Neutral / No gender,Female,15-20,"No, only in a text box",Weekly,Slightly Positive,English
+Probably Female,Female,>60,"No, only in a text box",Less than once a month,Slightly Positive,English
+Probably Male,Male,15-20,"No, only in a text box",Less than once a month,Neutral,French
+Probably Female,Male,41-60,"No, only in a text box",Daily,Strongly Positive,Portuguese
+Probably Female,Female,15-20,,Less than once a month,Neutral,French
+Neutral / No gender,Male,21-30,"No, only in a text box",Weekly,Positive,English
+Leaning Male,Female,41-60,"No, only in a text box",Weekly,Slightly Positive,English
+Neutral / No gender,Non-binary/Other,15-20,"No, only in a text box",Monthly,Slightly Negative,Thai
+Neutral / No gender,Female,31-40,"Yes, with a female voice",Daily,Strongly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Strongly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Positive,English
+Probably Male,Male,41-60,"Yes, with a male voice",Daily,Neutral,English
+Leaning Male,Non-binary/Other,31-40,"No, only in a text box",Monthly,Positive,English
+Definitely Male,Female,15-20,,Less than once a month,Slightly Negative,English
+Probably Male,Male,21-30,"No, only in a text box",Weekly,Positive,English
+Leaning Female,Male,21-30,"No, only in a text box",Weekly,Positive,English
+Leaning Female,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Definitely Male,Male,41-60,"Yes, with a male voice",Weekly,Strongly Positive,English
+Definitely Male,Male,31-40,"No, only in a text box",Daily,Positive,English
+Leaning Male,Female,41-60,"No, only in a text box",Less than once a month,Positive,English
+Leaning Male,Female,15-20,"No, only in a text box",Less than once a month,Neutral,English
+Neutral / No gender,Male,21-30,"Yes, with a female voice",Less than once a month,Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Monthly,Positive,English
+Definitely Male,Female,15-20,"No, only in a text box",Never,Slightly Negative,English
+Probably Male,Male,15-20,"No, only in a text box",Monthly,Positive,English
+Neutral / No gender,Female,41-60,"No, only in a text box",Less than once a month,Neutral,English
+Definitely Male,Female,41-60,"No, only in a text box",Less than once a month,Slightly Negative,English
+Neutral / No gender,Male,41-60,"No, only in a text box",Daily,Positive,Danish
+Leaning Male,Non-binary/Other,15-20,,Less than once a month,Slightly Negative,English
+Probably Male,Female,21-30,,Less than once a month,Slightly Negative,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Female,>60,"No, only in a text box",Less than once a month,Slightly Negative,English
+Probably Male,Male,21-30,"No, only in a text box",Daily,Strongly Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Weekly,Strongly Positive,English
+Leaning Male,Male,15-20,"No, only in a text box",Daily,Positive,German
+Neutral / No gender,Male,31-40,"No, only in a text box",Weekly,Slightly Positive,Spanish
+Definitely Male,Female,41-60,"No, only in a text box",Weekly,Positive,English
+Leaning Female,Female,31-40,"No, only in a text box",Less than once a month,Positive,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Monthly,Slightly Positive,French
+Neutral / No gender,Female,21-30,"No, only in a text box",Monthly,Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Monthly,Strongly Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Female,21-30,"Yes, with a female voice",Monthly,Positive,French
+Neutral / No gender,Male,31-40,"Yes, with a male voice",Daily,Strongly Positive,English
+Probably Female,Male,15-20,"No, only in a text box",Monthly,Slightly Positive,English
+Neutral / No gender,Male,31-40,"No, only in a text box",Weekly,Positive,English
+Neutral / No gender,Female,15-20,"No, only in a text box",Weekly,Positive,English
+Leaning Male,Male,15-20,"No, only in a text box",Daily,Positive,English
+Neutral / No gender,Male,21-30,"No, only in a text box",Never,Neutral,English
+Neutral / No gender,Male,31-40,"Yes, with a male voice",Daily,Positive,French
+Neutral / No gender,Male,21-30,"No, only in a text box",Never,Strongly Negative,English
+Definitely Female,Male,31-40,"No, only in a text box",Daily,Strongly Positive,Spanish
+Leaning Female,Male,21-30,"No, only in a text box",Weekly,Slightly Negative,English
+Neutral / No gender,Male,15-20,"No, only in a text box",Less than once a month,Slightly Positive,English
+Neutral / No gender,Male,21-30,"Yes, with a female voice",Daily,Strongly Positive,Hindi
+Probably Female,Male,31-40,"Yes, with a female voice",Less than once a month,Neutral,English
+Neutral / No gender,Male,15-20,"Yes, with a male voice",Daily,Positive,English
+Leaning Male,Male,15-20,"No, only in a text box",Never,Neutral,English
+Leaning Female,Female,41-60,"No, only in a text box",Less than once a month,Slightly Positive,French
+Neutral / No gender,Male,31-40,"Yes, with a male voice",Daily,Positive,Estonian
+Neutral / No gender,Male,31-40,"No, only in a text box",Monthly,Positive,English
+Definitely Female,Female,15-20,"No, only in a text box",Monthly,Neutral,English
+Neutral / No gender,Non-binary/Other,31-40,"No, only in a text box",Less than once a month,Slightly Positive,English
+Probably Male,Male,21-30,"Yes, with a male voice",Weekly,Strongly Positive,Spanish
